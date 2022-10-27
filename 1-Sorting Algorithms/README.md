@@ -5,4 +5,4 @@
 ## Why Sorting Algorithms
  Arranging things in a sorted manner makes it easier to analyze and search for a particular element among the collection of elements.
 
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Sorting_in_C%2B%2B_Example1.PNG" width="500">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Sorting_in_C%2B%2B_Example1.PNG" width="550">
