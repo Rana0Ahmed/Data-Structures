@@ -31,15 +31,16 @@ void Bubble_Sort(int arr[], int size){
 
 int main()
 {
-int arr[100];
-int size;
-cout<<"Enter size of array"<<endl;
-cin>>size;
-Read_Data(arr, size);
-cout<<"Data before sorting: "<<endl;
-Print_Data(arr, size);
-Bubble_Sort(arr, size);
-cout<<"Data after sorting: "<<endl;
-Print_Data(arr, size);
+    int arr[100];
+    int size;
+    cout<<"Enter size of array"<<endl;
+    cin>>size;
+    Read_Data(arr, size);
+    cout<<"Data before sorting: "<<endl;
+    Print_Data(arr, size);
+    Bubble_Sort(arr, size);
+    cout<<"Data after sorting: "<<endl;
+    Print_Data(arr, size);
+
 return 0;
 }

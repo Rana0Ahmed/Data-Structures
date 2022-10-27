@@ -43,5 +43,6 @@ int main()
     Selection_Sort(arr, size);
     cout<<"Data after sorting: "<<endl;
     Print_Data(arr, size);
+    
 return 0;
 }
