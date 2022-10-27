@@ -1,6 +1,6 @@
 # 1. Sorting Algorithms
--  1.1 [Bubble Sort]("https://github.com/Rana0Ahmed/Data-Structures/tree/main/1-Sorting%20Algorithms/Bubble%20Sort")
--  1.2 [Selection Sort]("https://github.com/Rana0Ahmed/Data-Structures/tree/main/1-Sorting%20Algorithms/Selection%20Sort")
+-  1.1 [Bubble Sort](https://github.com/Rana0Ahmed/Data-Structures/tree/main/1-Sorting%20Algorithms/Bubble%20Sort)
+-  1.2 [Selection Sort](https://github.com/Rana0Ahmed/Data-Structures/tree/main/1-Sorting%20Algorithms/Selection%20Sort)
 
 ## Why Sorting Algorithms
  Arranging things in a sorted manner makes it easier to analyze and search for a particular element among the collection of elements.
