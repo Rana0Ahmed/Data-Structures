@@ -1,5 +1,7 @@
 # Insertion Sort Algorithm
- The array is virtually split into a sorted and an unsorted part, values from the unsorted part are picked and placed at the correct position in the sorted part.
+ The array is virtually split into a sorted and an unsorted part.
+ 
+ Values from the unsorted part are picked and placed at the correct position in the sorted part.
  
  Insertion sort is efficient for small data values
  
