@@ -3,5 +3,5 @@
 - Time complexity of O(n*log[n])
 
 
-<img src="https://www.programiz.com/sites/tutorial2program/files/merge-sort-example_0.png" width="600">
+<img src="https://www.programiz.com/sites/tutorial2program/files/merge-sort-example_0.png" width="500">
 
