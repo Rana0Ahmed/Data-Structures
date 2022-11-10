@@ -5,3 +5,7 @@
 - Time complexity of O(n*log[n]).
 
 <img src="https://www.programiz.com/sites/tutorial2program/files/max-heap-min-heap.png" width="600">
+
+
+
+
