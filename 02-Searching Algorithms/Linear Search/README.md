@@ -1,5 +1,5 @@
 # Linear Search Algorithm
-- Linear Search is defined as a **sequential search** algorithm
+- Linear Search is defined as a `sequential search` algorithm
 - It is goes over all items one by one, every item is checked until the desired element is found
 - Time complexity of O(n)
 
